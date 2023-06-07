@@ -63,6 +63,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: MANOJ G
 RegisterNumber:  212222240060
 */
+```
 ## Program for Up-counter:
 ```
 module uc(clk,A);
