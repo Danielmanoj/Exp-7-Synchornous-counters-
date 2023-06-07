@@ -123,7 +123,8 @@ endmodule
 
 
 ### DOWN COUNTER:
-![243987254-e7ae2e09-026e-4325-8d0e-4ba24d76a377](https://github.com/Danielmanoj/Exp-7-Synchornous-counters-/assets/69635071/d3206755-c5b7-45c7-b20e-f80845d2dd48)
+![243987873-21cbc4b8-cfde-4baf-a4d5-2d2ad9b010f5](https://github.com/Danielmanoj/Exp-7-Synchornous-counters-/assets/69635071/6d3bd87e-8b99-45bd-9b7c-c0389b26e358)
+
 
 
 
